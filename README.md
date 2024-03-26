@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar1832&label=Profile%20views&color=0e75b6&style=flat" alt="omkar1832" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
-
 - 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **omkarp1832@gmail.com**
