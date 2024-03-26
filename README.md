@@ -1,6 +1,6 @@
 [![MasterHead](https://www.thecompetence.in/assets/images/datascience.gif)](https://omkar1832.io)
 <h1 align="center">Hi 👋, I'm omkar patil</h1>
-<h3 align="center">Aspiring Data Analyst from India</h3>
+<h3 align="center">Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/31332352/119162644-9ec37580-ba28-11eb-8e73-b76149197a1e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar1832&label=Profile%20views&color=0e75b6&style=flat" alt="omkar1832" /> </p>
